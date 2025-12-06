@@ -9,7 +9,7 @@
 }
 
 body {
-    color: #ffffff;
+    color: #262626;
     background: blue;
 }
 
@@ -134,3 +134,4 @@ body {
 .btn-box a:hover::before {
     width: 100%;
 }
+
