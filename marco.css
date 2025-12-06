@@ -50,7 +50,7 @@ body {
 
 .home {
     height: 100vh;
-   background-image: url('Yuno.jpg') ;
+   background-image: url('219026.jpg') ;
    background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -134,5 +134,6 @@ body {
 .btn-box a:hover::before {
     width: 100%;
 }
+
 
 
