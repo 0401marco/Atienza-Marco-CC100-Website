@@ -10,7 +10,7 @@
 
 body {
     color: #262626;
-    background: blue;
+    background: gray;
 }
 
 .header {
@@ -134,4 +134,5 @@ body {
 .btn-box a:hover::before {
     width: 100%;
 }
+
 
